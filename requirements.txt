@@ -1,0 +1,8 @@
+Django==4.1.4
+django-compressor==4.1
+django_countries==7.5
+django-environ==0.9.0
+django-extensions==3.2.1
+djangorestframework==3.14.0
+mysqlclient==2.1.1
+wagtail==4.0.4
